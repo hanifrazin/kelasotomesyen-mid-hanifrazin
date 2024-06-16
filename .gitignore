@@ -122,9 +122,9 @@ celerybeat.pid
 *.sage.py
 
 # Virtualenv related
-bin/
-include/
-lib/
+virtualenv/bin/
+virtualenv/include/
+virtualenv/lib/
 
 # Environments
 .env
